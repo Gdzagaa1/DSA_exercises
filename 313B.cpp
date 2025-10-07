@@ -1,3 +1,7 @@
+
+/* Codeforces: 313B */
+/* Link: https://codeforces.com/problemset/problem/313/B*/
+
 /**
  * 
  * Ilya the Lion wants to help all his friends with passing exams.
