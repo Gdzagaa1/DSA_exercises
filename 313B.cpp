@@ -14,9 +14,6 @@
  * Help Ilya, solve the problem.
  */
 
-//  . . # . . # #   s
- // 0 1 2 3 4 5 6   i
- // 0 1 1 1 2 2 3   arr
 
 
 #include <string>
