@@ -1,0 +1,11 @@
+# Executables
+313B
+26A_almost_prime
+*.out
+a.out
+
+# Object files
+*.o
+
+# OS files
+.DS_Store
