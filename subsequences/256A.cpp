@@ -1,3 +1,14 @@
+/* Codeforces: 256A */
+/* Link: https://codeforces.com/problemset/problem/256/A */
+
+/*
+ * Input:
+ * The first line contains integer n (1 ≤ n ≤ 4000). 
+ * The next line contains n integers b1, b2, ..., bn (1 ≤ bi ≤ 106).
+ * Output:
+ * Print a single integer — the length of the required longest subsequence.
+*/
+
 #include <iostream>
 #include <vector>
 #include <algorithm>
