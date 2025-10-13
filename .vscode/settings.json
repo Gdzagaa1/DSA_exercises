@@ -1,9 +1,0 @@
-{
-    "files.associations": {
-        "371d_vessels": "cpp",
-        "deque": "cpp",
-        "string": "cpp",
-        "variant": "cpp",
-        "vector": "cpp"
-    }
-}
