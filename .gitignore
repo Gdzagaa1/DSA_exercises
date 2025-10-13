@@ -1,6 +1,9 @@
-# Executables
-313B
-26A_almost_prime
+# Ignore all files without extensions (executables)
+*
+!*/
+!*.*
+
+# Specific executables (backup)
 *.out
 a.out
 
@@ -9,3 +12,8 @@ a.out
 
 # OS files
 .DS_Store
+
+# IDE files
+.vscode/
+.idea/
+*.swp
