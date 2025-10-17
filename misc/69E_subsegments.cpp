@@ -1,5 +1,5 @@
 
-/* Codeforces: 69E */
+/* Codeforces: 69E. Subsegments */
 /* Link: https://codeforces.com/problemset/problem/69/E */
 
 /*
