@@ -14,6 +14,9 @@
  * what the array a will be after all the queries are executed. Help Greg.
  */
 
+
+ // The solution uses prefix sums.
+
 #include <iostream>
 
 using namespace std;

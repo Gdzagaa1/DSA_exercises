@@ -15,6 +15,12 @@
  * way that makes the sum of query replies maximum possible. Your 
  * task is to find the value of this maximum sum.
  */
+
+
+
+
+// The solution uses prefix sums.
+
 #include <iostream>
 #include <algorithm> 
 
