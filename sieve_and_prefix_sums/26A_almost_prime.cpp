@@ -9,6 +9,11 @@
  * Find the amount of almost prime numbers which are between 1 and n, inclusive. 
 */
 
+
+/*
+ * Solution uses sieve of erathostenes
+ */
+
 using namespace std;
 
 

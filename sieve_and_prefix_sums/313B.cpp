@@ -15,6 +15,7 @@
  */
 
 
+// The solution uses prefix sums.
 
 #include <string>
 #include <iostream>
