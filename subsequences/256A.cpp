@@ -1,4 +1,4 @@
-/* Codeforces: 256A */
+/* Codeforces: 256A. Almost Arithmetical Progression */
 /* Link: https://codeforces.com/problemset/problem/256/A */
 
 /*
